@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Maxcfs2003
-- I am still a student in the 10th grade,
-- 👀 I’m interested in Coding, Webhosting and Encryption based stuff (like sha256,512...)
-- 🌱 I’m currently learning Python and a bit GO
 - 📫 How to reach me:
  
 On Discord:
-Maxcfs20032#1417
+maxcfs2003
 
 <!---
 Maxcfs2003/Maxcfs2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
